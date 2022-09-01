@@ -5,7 +5,7 @@
     </a>
 </b>
 <br>Easy In-App Purchases Integration to
-<br>Make Your iOS App Profitable Profitable
+<br>Make Your iOS App Profitable
 </h1>
 
 <p align="center">
